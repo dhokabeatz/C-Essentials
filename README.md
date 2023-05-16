@@ -115,7 +115,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/dhokabeatz/C
 ## Authors
 
 * **Henry** - *Computer Engineer* - [Henry](https://github.com/dhokabeatz/) - *Built useful C Functions*
+* **** - ** - []() - **
 
 ## Acknowledgements
 
-* [](https://github.com/dhokabeatz/)
+* [dhokabeatz](https://github.com/ShaanCoding/)
