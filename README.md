@@ -50,8 +50,8 @@ A list of commonly used resources that I find helpful is listed in the acknowled
 
 This section lists the major frameworks that I utilized to build this project. Here are a few examples.
 
-* [C]()
-* [Betty Linter]()
+* [C Programming]()
+* [Betty Linter](https://github.com/holbertonschool/Betty)
 
 ## Getting Started
 
